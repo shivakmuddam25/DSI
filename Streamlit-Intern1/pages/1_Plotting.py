@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 st.header("Welcome to Data Visualization")
-df = pd.read_csv("./LifeExpectancyData.csv")
+#df = pd.read_csv("./LifeExpectancyData.csv")
 
 # with open("data.sav", 'wb') as f:
 #     pickle.dump(df, f)
