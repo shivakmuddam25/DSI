@@ -1,5 +1,4 @@
-/home/appuser/venv/bin/python -m pip install --upgrade pip
-streamlit>=1.19
+streamlit
 pandas
 numpy
 matplotlib
