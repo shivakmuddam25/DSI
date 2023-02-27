@@ -8,7 +8,7 @@ st.header("Welcome to Data Visualization")
 # with open("data.sav", 'wb') as f:
 #     pickle.dump(df, f)
 
-df = pickle.load(open('./data.sav', 'rb'))
+df = pickle.load(open('../data.sav', 'rb'))
 
 st.dataframe(df)
 
